@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="500" height="300" src="https://raw.githubusercontent.com/CodeAcademyBerlin/Data-Science/master/Module%201/images/wine.jpg?token=ARTHZ3FPJ3Y7TDN3YDZ6W2LAI3NUU">
+  <img width="500" height="300" src="https://raw.githubusercontent.com/CodeAcademyBerlin/Data-Science/master/Module%201/images/wine.jpg?token=ARTHZ3C3NLLX62IKXVZ5SWTAI3PVY">
 </p>
 
 
