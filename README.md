@@ -9,10 +9,11 @@
 
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Data Description](#Data-Description)
-3. [Data Processing](#Data-Processing)
-4. [Machine Learning](#Basic-Exploratory-Analysis)
-5. [End Note](#End-Note)
+2. [Used Tools](Used-Tools)
+3. [Data Description](#Data-Description)
+4. [Data Processing](#Data-Processing)
+5. [Machine Learning](#Basic-Exploratory-Analysis)
+6. [End Note](#End-Note)
 
 
 
@@ -26,9 +27,7 @@ The purpose of this project is to conduct an analysis on Wine Quality data from 
 
 
 
-<p align="left">
-<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
-</details>
+
 
 ## Used Tools:
 
