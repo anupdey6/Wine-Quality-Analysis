@@ -84,18 +84,6 @@ total\_sulfur\_dioxide.
   - **quality** - score between 0 and 10
 
 
-<p align="center">
-<a href="https://www.animatedimages.org/cat-wine-706.htm"><img src="https://www.animatedimages.org/data/media/706/animated-wine-image-0005.gif" border="0" alt="animated-wine-image-0005" /></a><br></pre>
-</details>
-
-
-
-
- Wine Type found in the data -
-
-![](https://placehold.it/100x60/ff0000/000000?text=Red)
-
-![](https://placehold.it/100x60/157500/000?text=White)
 
 
 ## Data Processing:
