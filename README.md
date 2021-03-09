@@ -10,7 +10,7 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 2. [Data Description](#Data-Description)
-3. [Specifications](Specifications)
+3. [Specifications](#Specifications)
 4. [Data Processing](#Data-Processing)
 5. [Machine Learning](#Basic-Exploratory-Analysis)
 6. [End Note](#End-Note)
