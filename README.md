@@ -9,8 +9,8 @@
 
 # Table of Contents
 1. [Introduction](#Introduction)
-2. [Used Tools](Used-Tools)
-3. [Data Description](#Data-Description)
+2. [Data Description](#Data-Description)
+3. [Specifications](Specifications)
 4. [Data Processing](#Data-Processing)
 5. [Machine Learning](#Basic-Exploratory-Analysis)
 6. [End Note](#End-Note)
@@ -84,7 +84,9 @@ total\_sulfur\_dioxide.
   - **quality** - score between 0 and 10
 
 
+## Specifications 
 
+The program used was Python 3.7.7 with the main packages used being [numpy](https://numpy.org), [pandas](https://pandas.pydata.org), [matplotlib](https://matplotlib.org/stable/index.html#), [seaborn](https://seaborn.pydata.org) and [scikit-learn](https://scikit-learn.org/stable/index.html); occasionally, collections, statsmodels, and nltk were also used.
 
 ## Data Processing:
 
