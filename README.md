@@ -11,7 +11,7 @@
 1. [Introduction](#Introduction)
 2. [Data Description](#Data-Description)
 3. [Specifications](#Specifications)
-4. [Data Processing](#Data-Processing)
+4. [Data Pre-processing](#Data-Pre--processing)
 5. [Machine Learning](#Basic-Exploratory-Analysis)
 6. [End Note](#End-Note)
 
@@ -88,7 +88,7 @@ total\_sulfur\_dioxide.
 
 The program used was Python 3.7.7 with the main packages used being [numpy](https://numpy.org), [pandas](https://pandas.pydata.org), [matplotlib](https://matplotlib.org/stable/index.html#), [seaborn](https://seaborn.pydata.org) and [scikit-learn](https://scikit-learn.org/stable/index.html); occasionally, collections, statsmodels, and nltk were also used.
 
-## Data Processing:
+## Data Pre-processing:
 
 The wine quality data set used here are was presented by [[Cortez et al., 2009]](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub). It was very well structured regarding the data types,Null values and duplicates. Processing the data was only for finding specific insights. 
 
