@@ -59,29 +59,29 @@ total\_sulfur\_dioxide.
 
   - **free sulfur dioxide** - The free form of SO2 exists in equilibrium
     between molecular SO2 (as a dissolved gas) and bisulfite ion; it
-    prevents microbial growth and the oxidation of wine
+    prevents microbial growth and the oxidation of the wine
 
   - **total sulfur dioxide** - Amount of free and bound forms of S02; in
     low concentrations, SO2 is mostly undetectable in wine, but at free
     SO2 concentrations over 50 ppm, SO2 becomes evident in the nose and
     taste of wine
 
-  - **density** - the density of water is close to that of water
+  - **density** - The density of water is close to that of water
     depending on the percent alcohol and sugar content
 
   - **pH** - Describes how acidic or basic a wine is on a scale from 0
     (very acidic) to 14 (very basic); most wines are between 3-4 on the
     pH scale
 
-  - **sulphates** - a wine additive which can contribute to sulfur
-    dioxide gas (S02) levels, wich acts as an antimicrobial and
+  - **sulphates** - A wine additive that can contribute to sulfur
+    dioxide gas (S02) levels, which acts as an antimicrobial and
     antioxidant
 
-  - **alcohol** - the percent alcohol content of the wine
+  - **alcohol** - The percent alcohol content of the wine
 
 **Outcome Variable**:
 
-  - **quality** - score between 0 and 10
+  - **quality** - Score between 0 and 10
 
 
 ## Specifications 
