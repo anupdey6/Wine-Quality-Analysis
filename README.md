@@ -12,15 +12,16 @@
 2. [Data Description](#Data-Description)
 3. [Specifications](#Specifications)
 4. [Data Pre-processing](#Data-Pre-processing)
-5. [Machine Learning](#Basic-Exploratory-Analysis)
-6. [End Note](#End-Note)
+5. [Basic Exploratory Analysis](#Basic-Exploratory-Analysis)
+6. [Modeling](#Modeling)
+7. [End Note](#End-Note)
 
 
 
 
 
 
-## Introduction:
+## Introduction
 
 The purpose of this project is to conduct an analysis of Wine Quality data from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/wine+quality). The data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The data has 13 attributes which are wine type, fixed acidity, citric acid, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide, density, pH, sulphates, alcohol, and quality. We are interested to see if these attributes have an impact on the quality of the wine. The objective of this Exploratory data analysis of the Red wine dataset is to analyze the variables and determine which of the chemical properties of the wine influence its quality the most. Moreover, the final goal is to use machine learning to build an accurate model to predict wine quality.
 
@@ -31,7 +32,7 @@ The purpose of this project is to conduct an analysis of Wine Quality data from 
 
 
 
-## Data Description: 
+## Data Description
 
 The data contains 4547 observations with 12 features and 1 outcome
 variable. Also, the data has two missing values in feature
@@ -88,14 +89,14 @@ total\_sulfur\_dioxide.
 
 The program used was Python 3.7.7 with the main packages used being [numpy](https://numpy.org), [pandas](https://pandas.pydata.org), [matplotlib](https://matplotlib.org/stable/index.html#), [seaborn](https://seaborn.pydata.org) and [scikit-learn](https://scikit-learn.org/stable/index.html); occasionally, collections, statsmodels, and nltk were also used.
 
-## Data Pre-processing:
+## Data Pre-processing
 
 The wine quality data set used here are was presented by [[Cortez et al., 2009]](https://www.sciencedirect.com/science/article/abs/pii/S0167923609001377?via%3Dihub). It was very well structured regarding the data types,Null values and duplicates. Processing the data was only for finding specific insights. 
 
 
-## Machine Learning: 
+## Basic Exploratory Analysis
 
-
+## Modeling
 
 
 
